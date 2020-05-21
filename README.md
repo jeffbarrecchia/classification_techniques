@@ -1,4 +1,4 @@
-# Classification_Techniques
+# Predicting Diabetics Through Classification
 
 In this code, I display several different Classification methods to predict who does or doe not have diabetes. The dataset was pulled off of Github. The methods are:
   1. K-Nearest Neighbor
